@@ -1,0 +1,60 @@
+{
+  "breadcrumbs.enabled": false,
+
+  "chat.commandCenter.enabled": false,
+  "chat.agent.enabled": false,
+  "chat.focusWindowOnConfirmation": false,
+  "telemetry.feedback.enabled": false,
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+
+  "editor.fontFamily": "GeistMono Nerd Font",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "expand",
+  "editor.renderLineHighlight": "none",
+  "editor.guides.bracketPairs": "active",
+  "editor.lineNumbers": "relative",
+  "editor.minimap.enabled": false,
+  "editor.glyphMargin": false,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.wordWrap": "on",
+
+  "editor.renderWhitespace": "none",
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+
+  "window.title": " ",
+  "window.menuBarVisibility": "hidden",
+  "window.commandCenter": false,
+  "window.zoomLevel": 0.65,
+
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.activityBar.location": "hidden",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.iconTheme": "symbols",
+  "workbench.editor.empty.hint": "hidden",
+
+  "tailwindCSS.classFunctions": ["tw", "clsx", "cva", "cx"],
+
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+
+  "go.formatTool": "goimports",
+  "go.lintTool": "golangci-lint",
+
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  }
+}
